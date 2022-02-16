@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000i\u0000d\u0000d\u0000l\u0000e\u0000w\u0000a\u0000r\u0000e\u0000R\u0000E\u0000S\u0000T\u0000-\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyABoat/MiddlewareREST-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyABoat/MiddlewareREST-API/issues"
+  },
+  "homepage": "https://github.com/DannyABoat/MiddlewareREST-API#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
